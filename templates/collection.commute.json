@@ -31,7 +31,6 @@
         "background": "normal-bg",
         "order": "order-normal",
         "heading_color": "regular",
-        "image": "shopify:\/\/shop_images\/Commute_FB_Cover_1640-no_logo.jpg",
         "heading": "COMPETITION",
         "subheading": "WIN A COCO-MAT WOODEN BIKE",
         "content": "You could just be our winner! All you have to do is buy a bag from our Commute collection and you'll be in the running to win a Coco-Mat wooden bike, worth 2000 euros. You'll receive a voucher with more information and a unique code, together with your bag.",
@@ -54,7 +53,7 @@
           "settings": {
             "name": "Tube",
             "bag": "shopify:\/\/shop_images\/1_df1985b7-6a82-4a99-b571-3b7c7ccfcaf8.png",
-            "feature_img1": "shopify:\/\/shop_images\/HCOM01_003_01_5.jpg",
+            "feature_img1": "shopify:\/\/shop_images\/HCOM01_003_01_5_450x_9ad7400d-9de1-4cd5-b93a-4850205bcf09.jpg",
             "feature_heading1": "Large opening",
             "feature_description1": "Main compartment with large opening and RFID zipped pocket",
             "feature_img2": "shopify:\/\/shop_images\/HCOM01-_5.jpg",
@@ -69,7 +68,6 @@
             "feature_img5": "shopify:\/\/shop_images\/HCOM01-_27_dac1ac4c-8229-4c2c-93db-6451371dc0c1.jpg",
             "feature_heading5": "Key chain",
             "feature_description5": "Easy access to your keys at all times, thanks to the build in key hanger",
-            "feature_img6": "shopify:\/\/shop_images\/HFRS01MEX_645_01_04f.jpg",
             "feature_heading6": "",
             "feature_description6": ""
           }
@@ -160,7 +158,7 @@
             "feature_img2": "shopify:\/\/shop_images\/HCOM05_003_01_4g.jpg",
             "feature_heading2": "Hidden Pocket",
             "feature_description2": "Hidden zipped pocket on the back panel",
-            "feature_img3": "shopify:\/\/shop_images\/HCOM04-_2_1_0698b64f-6c1a-4502-b2f8-4a87769e7d0b.jpg",
+            "feature_img3": "shopify:\/\/shop_images\/HCOM04-_2_1.jpg",
             "feature_heading3": "Water Repellent",
             "feature_description3": "Water repellent coating",
             "feature_img4": "shopify:\/\/shop_images\/HCOM03_163_01_4c.jpg",
@@ -179,7 +177,7 @@
           "settings": {
             "name": "Suburbanite",
             "bag": "shopify:\/\/shop_images\/6_af2dca01-b40e-467c-b1bf-69f9045ad7b5.png",
-            "feature_img1": "shopify:\/\/shop_images\/HCOM06_003_01_4k.jpg",
+            "feature_img1": "shopify:\/\/shop_images\/HCOM06_003_01_4k.webp",
             "feature_heading1": "Clothing storage",
             "feature_description1": "Full opening for an easy packing. Elastic strap to maintain the clothing.",
             "feature_img2": "shopify:\/\/shop_images\/HCOM06_003_01_4g.jpg",
@@ -188,7 +186,7 @@
             "feature_img3": "shopify:\/\/shop_images\/HCOM06_003_01_4b.jpg",
             "feature_heading3": "RFID pocket",
             "feature_description3": "Multiple pockets including and RFID pocket",
-            "feature_img4": "shopify:\/\/shop_images\/HCOM06-_16_copy.jpg",
+            "feature_img4": "shopify:\/\/shop_images\/HCOM06-_16_copy.webp",
             "feature_heading4": "Rain Cover",
             "feature_description4": "Rain cover, stored in a hidden water proof zipped pocket",
             "feature_img5": "shopify:\/\/shop_images\/HCOM06_003_01_4c.jpg",
@@ -210,7 +208,7 @@
             "feature_img2": "shopify:\/\/shop_images\/HCOM07_163_01_4h.jpg",
             "feature_heading2": "Deep pocket",
             "feature_description2": "1 deep zipped pocket at the bottom (laundry or shoes storage)",
-            "feature_img3": "shopify:\/\/shop_images\/HCOM07_003_01_5.jpg",
+            "feature_img3": "shopify:\/\/shop_images\/HCOM07_003_01_5.webp",
             "feature_heading3": "Large storage",
             "feature_description3": "Large storage capacity",
             "feature_img4": "shopify:\/\/shop_images\/HEDGREN-120791.jpg",
@@ -235,7 +233,6 @@
         "a2280178-d8ee-4a36-bba4-fee8d8e4accc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hero_Hedgren_needs_to_make_this_image_2x_9e64d1c5-45b6-4c65-aafd-055b4e1c7bf5.png",
         "heading_left": "",
         "heading_right": "",
         "sub_heading": "",

@@ -56,9 +56,11 @@
                     </span>
                   </div>
                   <div class="hero-col price-col">
+                    {% if product.compare_at_price > product.price %}
                     <span class="product-font save-money">
                       {{ product.compare_at_price | money_without_trailing_zeros | strip_html }}
                     </span>
+                    {% endif %}
                     <span class="product-font money">
                       {{ product.price | money_without_trailing_zeros | strip_html }}
                     </span>
@@ -83,7 +85,7 @@
         {% endif %}
         {% endfor %}
       </div>
-      <a class="btn btn-center" href="{{ section.settings.buttonurl }}">{{ section.settings.buttontext }}</a>
+      <a class="btn btn-center" href="/collections/all">{{ section.settings.buttontext }}</a>
     </div>
   </div>
 </div>
@@ -320,11 +322,6 @@
         "id": "buttontext",
         "label": "Button text",
 		"default": "SHOP ALL PRODUCTS"
-      },
-      {
-        "type": "url",
-        "id": "buttonurl",
-        "label": "Shop all button URL"
       }
      ],
    "presets":[

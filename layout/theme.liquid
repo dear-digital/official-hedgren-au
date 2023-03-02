@@ -1,6 +1,6 @@
 {% include 'buildify-global' %}<!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
-  <head>
+  <head>{% render 'pagefly-head' %}
 
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -333,8 +333,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   });
 </script>
-<!-- CRITEO START -->
-{% render 'criteo-tracking' %}
-<!-- CRITEO END -->
 </body>
 </html>

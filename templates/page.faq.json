@@ -55,7 +55,7 @@
       "settings": {
         "heading_left": "1994",
         "heading": "FAQ",
-        "heading_right": "2022"
+        "heading_right": "2021"
       }
     },
     "1639137530507bec72": {
@@ -64,43 +64,29 @@
         "86633901-b234-4660-a75c-3582922534b6": {
           "type": "faq",
           "settings": {
-            "question": "Where do you deliver?",
-            "answer": "Currently Hedgren delivers to customers who have an address in Albania, Austria, Belgium, Bosnia &amp; Herzegovina, Croatia, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Luxembourg, Macedonia, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, the Netherlands and United Kingdom."
+            "question": "Delivery times",
+            "answer": "We deliver within 7 business days in Australia provided receipt of payment is before 2 PM Australian Eastern Standard Time on NSW business days."
           }
         },
         "b8c4e5d2-b90c-44d9-a07f-fda24127364a": {
           "type": "faq",
           "settings": {
-            "question": "Is there a shipping charge for orders?",
-            "answer": "We offer FREE SHIPPING on all orders to residential addresses in Austria, Belgium, Denmark, France mainland, Germany, Luxembourg and the Netherlands. Deliveries to residential addresses in Albania, Bosnia &amp; Herzegovina, Croatia, Czech Republic, Estonia, Finland, Greece,  Hungary, Ireland, Italy, Latvia, Lithuania, Macedonia, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and also the islands are subject to an actual calculated transport cost which is shown in the shipping method section of the checkout process.  \n<br><br>\nPlease note that we have no control over custom matters\/import duties. Delivery to countries outside the European Union might incur additional custom costs on behalf of the buyer."
+            "question": "Shipping Charges",
+            "answer": "We offer FREE SHIPPING &amp; RETURNS on all orders to residential addresses in Australia."
           }
         },
         "33347926-6f4b-48dc-bf78-b4a5894de59a": {
           "type": "faq",
           "settings": {
-            "question": "When will I receive my order?",
-            "answer": "We deliver within 1 to 7 business days provided receipt of payment is before 12 AM Central European Time (i.e. Payment receipt before 12 AM on Monday and your order will arrive on Tuesday if the shipping address is located in Belgium. Any order after 12 AM with location Belgium on Monday will arrive on Wednesday). \n<br><br>\nAlbania: 5 to 6 business days; Austria: 2 business days; Belgium: 1 business day; Bosnia &amp; Herzegovina: 5 to 6 business days; Croatia: 3 business days; Czech Republic: 2 business days; Denmark: 2 business days; Estonia: 4 to 5 business days; Finland: 3 to 5 business days; France: 1 to 2 business days; Germany: 1 to 2 business days; Greece: 4 business days; Hungary: 3 business days; Italy: 2 business days; Ireland: 3 business days; Latvia: 3 to 4 business days; Lithuania: 3 to 4 business days; Luxembourg: 1 business day; Macedonia: 4 to 5 business days; Norway: 3 to 5 business days; Poland: 2 business days; Portugal: 3 to 4 business days; Romania: 4 business days; Serbia: 3 business days; Slovakia: 3 business days; Slovenia: 2 business days; Spain: 3 to 5 business days; Sweden: 2 to 5 business days; Switzerland: 3 to 5 business days; the Netherlands: 1 business day; United Kingdom: Normally 3 to 4 business days, but due to customs clearance the release of the package might take up to 10 working days."
-          }
-        },
-        "6a71d798-3d2c-4b9a-9808-c6c3000a7791": {
-          "type": "faq",
-          "settings": {
-            "question": "What should I check upon delivery of my goods?",
-            "answer": "The courier will deliver your goods, provided that you sign for them. Before signing you should check the item(s) for quality and accuracy."
-          }
-        },
-        "994eb0fc-8cc9-4557-a062-5e26d5ba871e": {
-          "type": "faq",
-          "settings": {
-            "question": "How can I place an order?",
-            "answer": "To place an order select your desired item and add it to your shopping cart. If you are interested in buying one or more items, you can change the quantity and selection in the course of the buying process. Follow the instructions on the checkout page to complete your order. As soon as you confirm your order, an automated e-mail confirmation will be sent."
+            "question": "Delivery method",
+            "answer": "All deliveries are made by Australia Post. You can always track your deliveries with Australia Post tracking (www.australiapost.com.au)"
           }
         },
         "f40049b5-4740-48f1-a7fe-764bbc01d2c3": {
           "type": "faq",
           "settings": {
-            "question": "What payment methods can I use?",
-            "answer": "We offer Visa, Mastercard, AMEX, Maestro, iDEAL, Bancontact\/Mister Cash, SOFORT Banking, Bitcoin, Belfius &amp; KBC\/CBC."
+            "question": "Customer services",
+            "answer": "Any complaints regarding the state in which goods have been delivered must be made to Hedgren by contacting customer service using the <a href=\"https:\/\/au.hedgren.com\/pages\/contact-us\">contact form<\/a> or alternatively you can give us a call no later than two working days upon receipt of the goods."
           }
         }
       },
@@ -108,8 +94,6 @@
         "86633901-b234-4660-a75c-3582922534b6",
         "b8c4e5d2-b90c-44d9-a07f-fda24127364a",
         "33347926-6f4b-48dc-bf78-b4a5894de59a",
-        "6a71d798-3d2c-4b9a-9808-c6c3000a7791",
-        "994eb0fc-8cc9-4557-a062-5e26d5ba871e",
         "f40049b5-4740-48f1-a7fe-764bbc01d2c3"
       ],
       "settings": {
@@ -123,18 +107,11 @@
     "1639137579a3b2384d": {
       "type": "hedgren-faq",
       "blocks": {
-        "7980d808-20bb-40c3-a9e5-7cc2fb330cfc": {
-          "type": "faq",
-          "settings": {
-            "question": "How can I cancel my order?",
-            "answer": "The time between the placement of your order and shipment is very limited therefore, you cannot cancel your order once you have received the confirmation e-mail and will have to return the item(s) under the terms of the returns policy."
-          }
-        },
         "89e80631-cbb2-40d8-b411-795521a8564e": {
           "type": "faq",
           "settings": {
             "question": "I want to return the order for a refund, what should I do?",
-            "answer": "Returns will only be accepted within 14 days of the delivery date. Opened perfume packages will not be accepted for return. For further questions view our returns page or get in contact with customer service."
+            "answer": "Returns will only be accepted within 14 days of the delivery date.  For further questions view our returns page or get in contact with customer service."
           }
         },
         "4793ffca-8593-475f-8db0-eeb458cce9c0": {
@@ -146,7 +123,6 @@
         }
       },
       "block_order": [
-        "7980d808-20bb-40c3-a9e5-7cc2fb330cfc",
         "89e80631-cbb2-40d8-b411-795521a8564e",
         "4793ffca-8593-475f-8db0-eeb458cce9c0"
       ],
@@ -167,10 +143,19 @@
             "question": "Our Warranty Service",
             "answer": "Hedgren provides a two-year warranty (5 years for hard-shell luggage) against material and manufacturing defects, which is valid from the date of purchase. If you find such a defect within the warranty period, bring the product to your local Hedgren dealer. Hedgren will repair or replace the product at its own discretion and free of charge. But don’t forget: for your warranty claim to be valid, you must be able to show a proof of purchase in the form of a warranty certificate. This will either have been filled in by the salesperson or accompanied by a receipt along with the date of purchase.\n<br><br>\nImportant: the warranty is limited to the purchase price of the product. So, it does not cover damage caused by any of the following: incorrect use, negligence, carelessness, scratches, tearing, exposure to extreme temperatures, solvents, acid or water, normal wear, damage by normal use or transportation damage (at airline companies for example).\n<br><br>\nIf the product is damaged due to one of those causes, you can of course still contact your Hedgren dealer. He will provide advice and offer to repair the product against the payment for such repair. Material and production defects found outside the warranty period can similarly be repaired against the payment for such repair (depending on the availability of the parts, that is).\n<br><br>\nNotice: repairs carried out by service centres which are not approved by Hedgren are not covered by this warranty!"
           }
+        },
+        "0367dadf-3c1d-49e8-92cb-6461559f190d": {
+          "type": "faq",
+          "disabled": true,
+          "settings": {
+            "question": "",
+            "answer": ""
+          }
         }
       },
       "block_order": [
-        "f52644d0-845f-4e9b-b953-59a3e4141b76"
+        "f52644d0-845f-4e9b-b953-59a3e4141b76",
+        "0367dadf-3c1d-49e8-92cb-6461559f190d"
       ],
       "settings": {
         "background": "normal-bg",
@@ -187,7 +172,7 @@
           "type": "faq",
           "settings": {
             "question": "Cleaning Your Hedgren Bag",
-            "answer": "Check out the following instructions, in case of emergency only.*\n\nClean the outside fabric with a slightly wet cloth. Do not bleach. Do not soak in water. Hang in a shady place. Avoid moistening the leather parts when cleaning.”\nWipe with a soft &amp; dry cloth. Do not use any chemical cleaners to care for the product.”\n\nPlease check the product details of your particular bag for more customized care instructions: www.wikihow.com\/Wash-a-Backpack\n\n* Emergencies may include, but are not limited to: coffee spills, luggage conveyer belt dust, cosmetics leaks, globetrotting wear-and-tear."
+            "answer": "To clean and maintain your Hedgren bag, please follow the below advice:<br>\n<ul>\n<li>Wipe clean any marks of the outside fabric with a slightly wet cloth or baby wipe. <\/li>\n<li>Do not bleach.<\/li>\n<li>Do not soak in water<\/li>\n<li>Avoid moistening the leather parts<\/li>\n<li>Hang flat in a shady place to dry<\/li>\n<li>In case of a deep stain, clean the fabric with a cloth or soft brush using water and neutral soap.<\/li>\n<li>Do not use hot water while washing, as the backing of materials will get damaged.<\/li>\n<li>Do not store your bags away for a long period of time. Fabrics and fibres can react to the environment and have an adverse reaction.<\/li>\n<\/ul>"
           }
         }
       },
