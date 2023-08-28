@@ -448,11 +448,6 @@
       </span>{% elsif product.tags contains "2.Color_Cosmic Mix" %}<span class="variant-color-wrapper" title="Cosmic Mix" data-url="{% include 'removelist' %}-cosmicm"><img class="hedgren-color-inactive" src="{{ settings.cosmicm | img_url: '' }}"></span>
      {% endif %}
 
-{% if product.tags contains "2.Color_Urban Jungle" and product.url contains "-urbanj" %}
-    <span class="variant-color-wrapper" title="Urban Jungle" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.urbanj | img_url: '' }}"> 
-      </span>{% elsif product.tags contains "2.Color_Urban Jungle" %}<span class="variant-color-wrapper" title="Urban Jungle" data-url="{% include 'removelist' %}-urbanj"><img class="hedgren-color-inactive" src="{{ settings.urbanj | img_url: '' }}"></span>
-     {% endif %}
-
 {% if product.tags contains "2.Color_Smokey Mauve" and product.url contains "-smokeym" %}
     <span class="variant-color-wrapper" title="Smokey Mauve" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.smokeym | img_url: '' }}"> 
       </span>{% elsif product.tags contains "2.Color_Smokey Mauve" %}<span class="variant-color-wrapper" title="Smokey Mauve" data-url="{% include 'removelist' %}-smokeym"><img class="hedgren-color-inactive" src="{{ settings.smokeym | img_url: '' }}"></span>

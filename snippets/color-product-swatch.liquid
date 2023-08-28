@@ -324,3 +324,8 @@
     <span class="variant-color-wrapper" title="City Blue" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.citbl | img_url: '' }}"> 
       </span>{% elsif product.tags contains "2.Color_City Blue" %}<span class="variant-color-wrapper" title="City Blue" data-url="{% include 'removelist' %}-citbl"><img class="hedgren-color-inactive" src="{{ settings.citbl | img_url: '' }}"></span>
      {% endif %}
+
+{% if product.tags contains "2.Color_Urban Jungle" and product.url contains "-urbanj" %}
+    <span class="variant-color-wrapper" title="Urban Jungle" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.urbanj | img_url: '' }}"> 
+      </span>{% elsif product.tags contains "2.Color_Urban Jungle" %}<span class="variant-color-wrapper" title="Urban Jungle" data-url="{% include 'removelist' %}-urbanj"><img class="hedgren-color-inactive" src="{{ settings.urbanj | img_url: '' }}"></span>
+     {% endif %}
