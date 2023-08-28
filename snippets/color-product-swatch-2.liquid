@@ -608,11 +608,6 @@
       </span>{% elsif product.tags contains "2.Color_Cosmic Mix III" %}<span class="variant-color-wrapper" title="Cosmic Mix III" data-url="{% include 'removelist' %}-cosx"><img class="hedgren-color-inactive" src="{{ settings.cosx | img_url: '' }}"></span>
      {% endif %}
 
-{% if product.tags contains "2.Color_City Blue" and product.url contains "-citbl" %}
-    <span class="variant-color-wrapper" title="City Blue" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.citbl | img_url: '' }}"> 
-      </span>{% elsif product.tags contains "2.Color_City Blue" %}<span class="variant-color-wrapper" title="City Blue" data-url="{% include 'removelist' %}-citbl"><img class="hedgren-color-inactive" src="{{ settings.citbl | img_url: '' }}"></span>
-     {% endif %}
-
 {% if product.tags contains "2.Color_Deep Sea Blue" and product.url contains "-dsblue" %}
     <span class="variant-color-wrapper" title="Deep Sea Blue" data-url="{{ product.url }}"><img class="hedgren-color-active" src="{{ settings.dsblue | img_url: '' }}"> 
       </span>{% elsif product.tags contains "2.Color_Deep Sea Blue" %}<span class="variant-color-wrapper" title="Deep Sea Blue" data-url="{% include 'removelist' %}-dsblue"><img class="hedgren-color-inactive" src="{{ settings.dsblue | img_url: '' }}"></span>
